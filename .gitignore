@@ -1,0 +1,7 @@
+node_modules
+cookies
+.env
+.vscode
+**/test-results.json
+playwright-report
+test-results

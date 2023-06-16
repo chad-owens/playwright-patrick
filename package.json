@@ -1,0 +1,26 @@
+{
+  "name": "playwright-patrick",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chad-owens/playwright-patrick.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chad-owens/playwright-patrick/issues"
+  },
+  "homepage": "https://github.com/chad-owens/playwright-patrick#readme",
+  "dependencies": {
+    "@faker-js/faker": "^8.0.2",
+    "@playwright/test": "^1.35.0"
+  }
+}
